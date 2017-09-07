@@ -17,4 +17,4 @@ The Emvents application will have two types of users or personas: attendees (peo
 
 ---
 
-**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming), give you access to curated links for each section.
+**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming) and give you access to curated lists of readings, videos and documentation to get ready for each requirement.
