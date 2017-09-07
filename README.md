@@ -8,7 +8,7 @@ We also pair people online so you can work on this project doing pair programmin
 ## Introduction
 In this project you will learn how to build a production-ready REST API using Node.js and Express.js. You will work in a real-world project for a fictional company that requires your help.
 
-The project has ben split into multiple milestones, and each milestone has functional and technical requirements that you will need to implement.
+The project has been split into multiple milestones, and each milestone has functional and technical requirements that you will need to implement.
 
 ## Tools you will use
 - Node.js
