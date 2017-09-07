@@ -28,10 +28,10 @@ The company will build the mobile application for iOS and Android, but they need
 
 ## Milestones
 
-- **Milestone 1**: [Basic API server](MILESTONE_1.MD)
-- **Milestone 2**: [In-memory RESTful API](MILESTONE_2.MD)
-- **Milestone 3**: [Testing](MILESTONE_3.MD)
-- **Milestone 4**: [Persisting data with MongoDB](MILESTONE_4.MD)
-- **Milestone 5**: [Users and Authentication](MILESTONE_5.MD)
-- **Milestone 6**: [Authorization](MILESTONE_6.MD)
-- **Milestone 7**: [Deploying](MILESTONE_7.MD)
+- **Milestone 1**: [Basic API server](milestones/MILESTONE_1.md)
+- **Milestone 2**: [In-memory RESTful API](milestones/MILESTONE_2.md)
+- **Milestone 3**: [Testing](milestones/MILESTONE_3.md)
+- **Milestone 4**: [Persisting data with MongoDB](milestones/MILESTONE_4.md)
+- **Milestone 5**: [Users and Authentication](milestones/MILESTONE_5.md)
+- **Milestone 6**: [Authorization](milestones/MILESTONE_6.md)
+- **Milestone 7**: [Deploying](milestones/MILESTONE_7.md)
