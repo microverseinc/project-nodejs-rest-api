@@ -33,3 +33,7 @@ First things first. We need to get the tooling ready so you can take full advant
 7. You should refactor your Express.js code to use ES6 features
    - You should use const and let to define constants and variables
    - You should use arrow functions when appropriate
+
+---
+
+**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming), give you access to curated links for each section.

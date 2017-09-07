@@ -34,3 +34,7 @@ Emvents Inc. wants users to be able to sign up to events with their accounts and
 each request.
 
 8. Optional: Your application should use auth tokens or any other similar mechanism (e.g. OAuth) so that clients don't need to send username and password with every request.
+
+---
+
+**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming), give you access to curated links for each section.

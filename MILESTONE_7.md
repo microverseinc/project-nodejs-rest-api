@@ -13,3 +13,7 @@ In this last milestone, we will deploy the API to Heroku so the developers of Em
 
 3. Follow this example of Heroku deploy with mongoose and Mongolab. 
    - Link: [https://scotch.io/tutorials/use-mongodb-with-a-node-application-on-heroku](https://scotch.io/tutorials/use-mongodb-with-a-node-application-on-heroku)
+
+---
+
+**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming), give you access to curated links for each section.

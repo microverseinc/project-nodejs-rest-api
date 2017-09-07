@@ -35,3 +35,7 @@ So far we have been storing the data in memory, but Emvents Inc. wants to store 
 12. Requirement: Create an index in the database to improve the performance of this last query. 
    - Use the mongo shell command “explain” to check the performance improvement.
    - Link: [https://docs.mongodb.com/v3.2/tutorial/analyze-query-plan/](https://docs.mongodb.com/v3.2/tutorial/analyze-query-plan/)
+
+---
+
+**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming), give you access to curated links for each section.

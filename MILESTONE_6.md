@@ -14,3 +14,7 @@ The Emvents application will have two types of users or personas: attendees (peo
 4. You should implement an endpoint that returns all the upcoming events a user has signed up for.
 
 5. You should implement an endpoint that allows the organizer of an event to see all the users who signed up to a given event he is organizing.
+
+---
+
+**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming), give you access to curated links for each section.

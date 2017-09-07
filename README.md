@@ -3,7 +3,7 @@
 ## Background
 At [Microverse](http://www.microverse.org/), we are passionate about helping people learn by working on real-world projects where **we tell you WHAT to build, but never HOW to build it**. Think about it as if we were your Product Managers.
 
-We also pair people online so you can work on this project doing pair programming with a coding partner. If you are interested, check it out: [http://www.microverse.org/](http://www.microverse.org/)
+We also pair people online so you can work on this project doing pair programming with a coding partner. If you are interested, [fill in this form](https://microverse.typeform.com/to/Lh3CKF).
 
 ## Introduction
 In this project you will learn how to build a production-ready REST API using Node.js and Express.js. You will work in a real-world project for a fictional company that requires your help.
