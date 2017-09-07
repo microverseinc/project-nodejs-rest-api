@@ -18,6 +18,7 @@ The project has ben split into multiple milestones, and each milestone has funct
 - Mocha
 - Chai
 - Passport.js
+- [Postman](https://www.getpostman.com/)
 
 ## The Project
 Emvents Inc., a (fictional) tech company based in South Africa, has requested your help with a product they are building. Emvents Inc. wants to create a mobile app to help people find the best free events in Africa and help organizers reach millions of potential attendees. 
