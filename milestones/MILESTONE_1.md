@@ -3,6 +3,26 @@
 ## Introduction
 First things first. We need to get the tooling ready so you can take full advantage of Node.js and its libraries to build the API for Emvents Inc. You will build this Node.js API using Express.js, ES6 features and a testing approach that is solid while easy to understand.
 
+## Get ready
+
+- **Check the new JavaScript features (ES6)**:
+This new version of JavaScript brings a lot of new things to the language. Take a look at some of them and focus on understanding how to use arrow functions and let/const. [http://exploringjs.com/es6/](http://exploringjs.com/es6/)
+
+- **Install Node.js**:
+Follow the steps in this guide to install Node.js in your computer. This is the main "language" we will use to build the API. [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
+
+- **Install Postman**:
+This tool will be extremely useful while testing and playing with the API you will build.
+[https://www.getpostman.com](https://www.getpostman.com)
+
+- **Learn about git**:
+You should use git commit after completing each requirement to keep track of every change.
+[https://git-scm.com/docs](https://git-scm.com/docs)
+
+- **Review the basic HTTP methods**:
+The API you will build show respond to multiple types of requests. Learn more about the different type of HTTP methods so you can pick the right one.
+[https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods)
+
 ## Requirements
 
 1. Your project  should start with a server.js file with the content of the official Node.js Hello World example.
@@ -10,7 +30,7 @@ First things first. We need to get the tooling ready so you can take full advant
    - Run it from your terminal
    - Check the results in your browser
 
-2. You should use npm to initialize a new Node.js project 
+2. You should use npm to initialize a new Node.js project
    - Provide a description
    - Provide server.js as the starting file
    - Check the resulting package.json file
@@ -20,7 +40,7 @@ First things first. We need to get the tooling ready so you can take full advant
    - Link: [http://expressjs.com/en/starter/installing.html](http://expressjs.com/en/starter/installing.html)
 
 4. You should add Express.js to your project
-   - Replace your Hello World example with the one provided by Express. 
+   - Replace your Hello World example with the one provided by Express.
    - Link: [http://expressjs.com/en/starter/hello-world.html](http://expressjs.com/en/starter/hello-world.html)
 
 5. You should add a GET and a POST handler to send and receive data from the client.
@@ -36,4 +56,4 @@ First things first. We need to get the tooling ready so you can take full advant
 
 ---
 
-**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming) and give you access to curated lists of readings, videos and documentation to get ready for each requirement.
+**NOTE**: Do you want to become a remote software developer? [Join our online training program](http://www.microverse.org/) where students from all around the world learn together doing remote pair programming, all while working on open source and freelance projects.

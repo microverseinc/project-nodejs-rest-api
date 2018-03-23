@@ -3,9 +3,14 @@
 ## Introduction
 The Emvents application will have two types of users or personas: attendees (people signing up to events) and organizers (people organizing events). We will differentiate the two different roles and implement some authorization rules.
 
+## Get ready
+
+- **Familiarize yourself with ACL**:
+Learn how access control lists (ACL) can help you implement authorization in your application and how to use the Node ACL Node library in your project. [https://github.com/optimalbits/node_acl](https://github.com/optimalbits/node_acl)
+
 ## Requirements
 
-1. Only the user who has created the event should be able to update or delete an event. 
+1. Only the user who has created the event should be able to update or delete an event.
 
 2. You should implement an endpoint that returns all the events organized (created) by a given user.
 
@@ -17,4 +22,4 @@ The Emvents application will have two types of users or personas: attendees (peo
 
 ---
 
-**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming) and give you access to curated lists of readings, videos and documentation to get ready for each requirement.
+**NOTE**: Do you want to become a remote software developer? [Join our online training program](http://www.microverse.org/) where students from all around the world learn together doing remote pair programming, all while working on open source and freelance projects.

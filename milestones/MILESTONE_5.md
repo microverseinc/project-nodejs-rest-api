@@ -3,6 +3,14 @@
 ## Introduction
 Emvents Inc. wants users to be able to sign up to events with their accounts and they want organizers to be able to manage their events. In order to do that, we need to know who is who. In this milestone we will add users and authentication to our RESTful API.
 
+## Get ready
+
+- **Read the PassportJS Docs**:
+Familiarize yourself with the PassportJS authentication library. The sections titled “Configure” and “Basic & Digest” will be very useful to implement the requirements of this milestone. [http://passportjs.org/docs](http://passportjs.org/docs)
+
+- **Play with passport and passport-http**:
+Install these two libraries using npm and learn how to create a Basic HTTP username & password authentication layer. [https://github.com/jaredhanson/passport-http](https://github.com/jaredhanson/passport-http)
+
 ## Requirements
 
 1. Requirement: The application should have a User schema.
@@ -22,19 +30,19 @@ Emvents Inc. wants users to be able to sign up to events with their accounts and
    - Passport-http should be used to implement Basic HTTP authentication
    - Session support should be disabled
 
-5. All the endpoints created until this point should require the user to provide authentication credentials (username and password). 
+5. All the endpoints created until this point should require the user to provide authentication credentials (username and password).
    - Otherwise, they must return a 401 HTTP error.
    - The POST /users endpoint should not require authentication
 
-6. Requirement: Use the "Basic Auth" functionality of Postman to test the authentication flow works correctly. 
+6. Requirement: Use the "Basic Auth" functionality of Postman to test the authentication flow works correctly.
    - Link: [https://www.getpostman.com/docs/postman/sending_api_requests/authorization](https://www.getpostman.com/docs/postman/sending_api_requests/authorization)
 
 7. Your application should have tests to make sure the authentication logic is working as expected.
-   - Make sure to modify the existing tests since they now require credentials to be sent with 
+   - Make sure to modify the existing tests since they now require credentials to be sent with
 each request.
 
 8. Optional: Your application should use auth tokens or any other similar mechanism (e.g. OAuth) so that clients don't need to send username and password with every request.
 
 ---
 
-**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming) and give you access to curated lists of readings, videos and documentation to get ready for each requirement.
+**NOTE**: Do you want to become a remote software developer? [Join our online training program](http://www.microverse.org/) where students from all around the world learn together doing remote pair programming, all while working on open source and freelance projects.

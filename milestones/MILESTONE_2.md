@@ -3,13 +3,27 @@
 ## Introduction
 Like we often do in product development, we will start by building an MVP (Minimum Viable Product). During this milestone, you will build a simple RESTful API to manage events using, for now, an in-memory data structure (e.g. array) to store the data.
 
+## Get ready
+
+- **Express.js routing**:
+Learn how you can use routing to process different requests through your API. [http://expressjs.com/en/starter/basic-routing.html](http://expressjs.com/en/starter/basic-routing.html)
+
+- **Express Route Paths**:
+During the development of your API, you will use route paths to define handlers for different requests. [http://expressjs.com/en/guide/routing.html](http://expressjs.com/en/guide/routing.html)
+
+- **RESTful APIs**:
+Learn what makes an API a RESTful API and why REST is so important [http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api/](http://www.andrewhavens.com/posts/20/beginners-guide-to-creating-a-rest-api/)
+
+- **Express.js route parameters**:
+Learn how to manage parameters in a route to collect data from a request [http://expressjs.com/en/4x/api.html#req](http://expressjs.com/en/4x/api.html#req)
+
 ## Requirements
 
-1. Define a Javascript object that represents an "Event". 
+1. Define a Javascript object that represents an "Event".
    - It should contain an id, title, a description, and a date.
-    
-2. Create a Javascript object that will be used to store all your events. 
-   - Use it as a dictionary where they id of the event will be the key used to store each event. 
+
+2. Create a Javascript object that will be used to store all your events.
+   - Use it as a dictionary where they id of the event will be the key used to store each event.
    - Add multiple event objects to your data structure.
 
 3. There should be an endpoint to get a list of all the events (GET /events)
@@ -35,4 +49,4 @@ Like we often do in product development, we will start by building an MVP (Minim
 
 ---
 
-**NOTE**: Do you need help or some extra motivation to complete the project? [Fill in this form](https://microverse.typeform.com/to/Lh3CKF) and we will help you find a coding partner (like a gym buddy for pair programming) and give you access to curated lists of readings, videos and documentation to get ready for each requirement.
+**NOTE**: Do you want to become a remote software developer? [Join our online training program](http://www.microverse.org/) where students from all around the world learn together doing remote pair programming, all while working on open source and freelance projects.
